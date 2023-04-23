@@ -44,7 +44,7 @@ class SplashScreen extends StatelessWidget {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   const Text(
-                    "2주차 목표 : 카카오 로그인을 구현해봅시다.",
+                    "2주차 : 카카오, 네이버 로그인 구현",
                     style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
                   ),
                   SizedBox(
